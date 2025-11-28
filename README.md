@@ -11,3 +11,4 @@
 11. 
 
 https://github.com/33Spot/hl-collection-patches-v9/raw/refs/heads/main/hl_updated_v9h_GOOD_patch1.tar.gz
+https://github.com/33Spot/hl-collection-patches-v9/raw/refs/heads/main/hl_updated_v9h_GOOD_patch2.tar.gz
